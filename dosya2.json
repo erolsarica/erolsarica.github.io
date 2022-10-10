@@ -1,42 +1,57 @@
 {
   "Yemekler": [
     {
-      "tarih": "05 Ekim 2022",
-      "ogle_yemegi": "Çorba",
-      "aksam_yemegi": "Et Döner"
-    },
-  {
-      "tarih": "06 Ekim 2022",
-      "ogle_yemegi": "Çorba",
-      "aksam_yemegi": "Et Döner"
-    },
-  {
-      "tarih": "07 Ekim 2022",
-      "ogle_yemegi": "Çorba",
-      "aksam_yemegi": "Et Döner"
-    },
-  {
-      "tarih": "08 Ekim 2022",
-      "ogle_yemegi": "Çorba",
-      "aksam_yemegi": "Et Döner"
-    },
-  {
-      "tarih": "09 Ekim 2022",
-      "ogle_yemegi": "Çorba",
-      "aksam_yemegi": "Et Döner"
-    },
-		
-  {
       "tarih": "10 Ekim 2022",
-      "ogle_yemegi": "Çorba",
-      "aksam_yemegi": "Et Döner"
+      "corba": "Köy Çorba",
+      "ana_yemek": "Kabak Beğendili Köfte",
+      "vegan": "Kabak Yemeği",
+      "yardimci_yemek": "Pirinç Piavı, Erişte",	
+      "secmeli": "Salata, Peynir Tatlısı, Meyve",
+      "corba2": "Köy Çorba",
+      "ana_yemek2": "Kabak Beğendili Köfte",
+      "vegan2": "Kabak Yemeği",
+      "yardimci_yemek2": "Pirinç Piavı, Erişte",	
+      "secmeli2": "Salata, Peynir Tatlısı, Meyve"	    
     },
-
-  {
+{
       "tarih": "11 Ekim 2022",
-      "ogle_yemegi": "Bulgur Pilavı",
-      "aksam_yemegi": "Etli Dolma"
-    }
+      "corba": "Köy Çorba",
+      "ana_yemek": "Kabak Beğendili Köfte",
+      "vegan": "Kabak Yemeği",
+      "yardimci_yemek": "Pirinç Piavı, Erişte",	
+      "secmeli": "Salata, Peynir Tatlısı, Meyve",
+      "corba2": "Köy Çorba",
+      "ana_yemek2": "Kabak Beğendili Köfte",
+      "vegan2": "Kabak Yemeği",
+      "yardimci_yemek2": "Pirinç Piavı, Erişte",	
+      "secmeli2": "Salata, Peynir Tatlısı, Meyve"	    
+    },
+{
+      "tarih": "12 Ekim 2022",
+      "corba": "Köy Çorba",
+      "ana_yemek": "Kabak Beğendili Köfte",
+      "vegan": "Kabak Yemeği",
+      "yardimci_yemek": "Pirinç Piavı, Erişte",	
+      "secmeli": "Salata, Peynir Tatlısı, Meyve",
+      "corba2": "Köy Çorba",
+      "ana_yemek2": "Kabak Beğendili Köfte",
+      "vegan2": "Kabak Yemeği",
+      "yardimci_yemek2": "Pirinç Piavı, Erişte",	
+      "secmeli2": "Salata, Peynir Tatlısı, Meyve"	    
+    },
+{
+      "tarih": "13 Ekim 2022",
+      "corba": "Köy Çorba",
+      "ana_yemek": "Kabak Beğendili Köfte",
+      "vegan": "Kabak Yemeği",
+      "yardimci_yemek": "Pirinç Piavı, Erişte",	
+      "secmeli": "Salata, Peynir Tatlısı, Meyve",
+      "corba2": "Köy Çorba",
+      "ana_yemek2": "Kabak Beğendili Köfte",
+      "vegan2": "Kabak Yemeği",
+      "yardimci_yemek2": "Pirinç Piavı, Erişte",	
+      "secmeli2": "Salata, Peynir Tatlısı, Meyve"	    
+    },	  
     
   ]
 }
