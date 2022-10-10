@@ -1,0 +1,49 @@
+{
+  "Yemekler": [
+    {
+      "tarih": "05 Ekim 2022",
+      "ogle_yemegi": "Çorba",
+      "aksam_yemegi": "Et Döner",
+      "recovered": 0
+    },
+  {
+      "tarih": "06 Ekim 2022",
+      "ogle_yemegi": "Çorba",
+      "aksam_yemegi": "Et Döner",
+      "recovered": 0
+    },
+  {
+      "tarih": "07 Ekim 2022",
+      "ogle_yemegi": "Çorba",
+      "aksam_yemegi": "Et Döner",
+      "recovered": 0
+    },
+  {
+      "tarih": "08 Ekim 2022",
+      "ogle_yemegi": "Çorba",
+      "aksam_yemegi": "Et Döner",
+      "recovered": 0
+    },
+  {
+      "tarih": "09 Ekim 2022",
+      "ogle_yemegi": "Çorba",
+      "aksam_yemegi": "Et Döner",
+      "recovered": 0
+    },
+		
+  {
+      "tarih": "10 Ekim 2022",
+      "ogle_yemegi": "Çorba",
+      "aksam_yemegi": "Et Döner",
+      "recovered": 0
+    },
+
+  {
+      "tarih": "11 Ekim 2022",
+      "ogle_yemegi": "Bulgur Pilavı",
+      "aksam_yemegi": "Etli Dolma",
+      "recovered": 0
+    }
+    
+  ]
+}
