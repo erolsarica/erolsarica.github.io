@@ -1,18 +1,5 @@
 {
   "Yemekler": [
-    {
-      "tarih": "10 Ekim 2022",
-      "corba": "Köy Çorba",
-      "ana_yemek": "Kabak Beğendili Köfte",
-      "vegan": "Kabak Yemeği",
-      "yardimci_yemek": "Pirinç Pilavı, Erişte",	
-      "secmeli": "Salata, Peynir Tatlısı, Meyve",
-      "corba2": "Köy Çorba",
-      "ana_yemek2": "Kabak Beğendili Köfte",
-      "vegan2": "Kabak Yemeği",
-      "yardimci_yemek2": "Pirinç Pilavı, Erişte",	
-      "secmeli2": "Salata, Peynir Tatlısı, Meyve"	    
-    },
 {
       "tarih": "11 Ekim 2022",
       "corba": "Tarhana Çorba",
@@ -28,30 +15,76 @@
     },
 {
       "tarih": "12 Ekim 2022",
-      "corba": "Köy Çorba",
-      "ana_yemek": "Kabak Beğendili Köfte",
-      "vegan": "Kabak Yemeği",
-      "yardimci_yemek": "Pirinç Pilavı, Erişte",	
-      "secmeli": "Salata, Peynir Tatlısı, Meyve",
-      "corba2": "Köy Çorba",
-      "ana_yemek2": "Kabak Beğendili Köfte",
-      "vegan2": "Kabak Yemeği",
-      "yardimci_yemek2": "Pirinç Pilavı, Erişte",	
-      "secmeli2": "Salata, Peynir Tatlısı, Meyve"	    
-    },
-{
+      "corba": "Alaca Çorba",
+      "ana_yemek": "Akçaabat Köfte",
+      "vegan": "Harput Köfte",
+      "yardimci_yemek": "Havuçlu Pirinç Pilavı, Zy.Enginar",
+      "secmeli": "Salata, Tulumba Tatlısı, Meyve",
+      "corba2": "Yayla Çorba",
+      "ana_yemek2": "Etli Türlü",
+      "vegan2": "Sebze Sote",
+      "yardimci_yemek2": "Pirinç Pilavı, Bulgur Pilavı",
+      "secmeli2": "Salata, Ayran, Soda"
+},
+    {
+
       "tarih": "13 Ekim 2022",
-      "corba": "Köy Çorba",
-      "ana_yemek": "Kabak Beğendili Köfte",
-      "vegan": "Kabak Yemeği",
-      "yardimci_yemek": "Pirinç Pilavı, Erişte",	
-      "secmeli": "Salata, Peynir Tatlısı, Meyve",
-      "corba2": "Köy Çorba",
-      "ana_yemek2": "Kabak Beğendili Köfte",
-      "vegan2": "Kabak Yemeği",
-      "yardimci_yemek2": "Pirinç Pilavı, Erişte",	
-      "secmeli2": "Salata, Peynir Tatlısı, Meyve"	    
-    }	  
+      "corba": "Süzme Mercimek Çorba",
+      "ana_yemek": "Kıymalı Ispanak",
+      "vegan": "Ispanak Yemeği",
+      "yardimci_yemek": "Fırın Makarna, Kol Böreği",  
+      "secmeli": "Salata, Meyve, Muzlu Puding",
+      "corba2": "Brokoli Çorba",
+      "ana_yemek2": "Orman Kebabı",
+      "vegan2": "Bezelye Yemeği",
+      "yardimci_yemek2": "Pirinç Pilavı, Bulgur Pilavı",
+      "secmeli2": "Salata, Cevizli Kadayıf, Ayran"
+    },
+    {  
+
+  ÖĞLE YEMEĞİ
+Yayla Çorba
+Etli Kuru Fasulye
+Etsiz Kuru Fasulye
+Bulgur Pilavı, Melek Pilavı
+Salata, Yoğurt, Turşu
+AKŞAM YEMEĞİ
+Mahluta Çorba
+Tavuk Döner
+Falafel
+Pirinç Pilavı, Soslu Makarna
+Salata, Fanta, Ayran
+    },
+    {
+
+  ÖĞLE YEMEĞİ
+Alaca Çorba
+Püreli Tas Kebabı
+Zy.Orbit Fasulye
+Melek Pilavı, Bulgur Pilavı
+Kola, Salata, Supangle
+AKŞAM YEMEĞİ
+Cennet Çorba
+Fırın Patates Oturtma
+Etsiz Fırın Patates
+Pirinç Pilavı, Kuskus Makarna
+Salata, Ayran, Meyve
+    },
+    {
+
+  ÖĞLE YEMEĞİ
+Elvankız Çorba
+Manisa Kırkağaç Köfte
+Mercimek Yemeği
+Pirinç Pilavı, Bulgur Pilavı
+Salata, Kola, Yoğurt
+AKŞAM YEMEĞİ
+Kafkas Çorba
+Etli Bezelye
+Etsiz Bezelye
+Pirinç Pilavı, Fırın Makarna
+Hayrabolu Tatlı, Meyve, Ayran
+    }
     
   ]
 }
