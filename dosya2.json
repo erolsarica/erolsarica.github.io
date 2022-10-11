@@ -1,6 +1,7 @@
 {
   "Yemekler": [
     {
+      "gun": 10,
       "tarih": "10 Ekim 2022",
       "corba": "Köy Çorba",
       "ana_yemek": "Kabak Beğendili Köfte",
@@ -14,7 +15,8 @@
       "secmeli2": "Salata, Peynir Tatlısı, Meyve"	    
     },
 {
-      "tarih": 13,
+      "gun": 11,
+      "tarih": "11 Ekim 2022",
       "corba": "Köy Çorba",
       "ana_yemek": "Kabak Beğendili Köfte",
       "vegan": "Kabak Yemeği",
@@ -27,6 +29,7 @@
       "secmeli2": "Salata, Peynir Tatlısı, Meyve"	    
     },
 {
+      "gun": 12,
       "tarih": "12 Ekim 2022",
       "corba": "Köy Çorba",
       "ana_yemek": "Kabak Beğendili Köfte",
@@ -40,7 +43,8 @@
       "secmeli2": "Salata, Peynir Tatlısı, Meyve"	    
     },
 {
-      "tarih": 11,
+      "gun": 13,
+      "tarih": "13 Ekim 2022",
       "corba": "Köy Çorba",
       "ana_yemek": "Kabak Beğendili Köfte",
       "vegan": "Kabak Yemeği",
