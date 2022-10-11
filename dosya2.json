@@ -16,14 +16,14 @@
     },
 {
       "gun": 111,
-      "tarih": "11 Ekim 2022",
-      "corba": "Köy Çorba",
+      "tarih": "13 Ekim 2022",
+      "corba": "Tarhana Çorba",
       "ana_yemek": "Kabak Beğendili Köfte",
       "vegan": "Kabak Yemeği",
       "yardimci_yemek": "Pirinç Pilavı, Erişte",	
       "secmeli": "Salata, Peynir Tatlısı, Meyve",
       "corba2": "Köy Çorba",
-      "ana_yemek2": "Kabak Beğendili Köfte",
+      "ana_yemek2": "Et Döner",
       "vegan2": "Kabak Yemeği",
       "yardimci_yemek2": "Pirinç Pilavı, Erişte",	
       "secmeli2": "Salata, Peynir Tatlısı, Meyve"	    
@@ -44,7 +44,7 @@
     },
 {
       "gun": 11,
-      "tarih": "13 Ekim 2022",
+      "tarih": "10 Ekim 2022",
       "corba": "Köy Çorba",
       "ana_yemek": "Kabak Beğendili Köfte",
       "vegan": "Kabak Yemeği",
