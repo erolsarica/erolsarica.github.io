@@ -42,48 +42,17 @@
     },
     {  
 
-  ÖĞLE YEMEĞİ
-Yayla Çorba
-Etli Kuru Fasulye
-Etsiz Kuru Fasulye
-Bulgur Pilavı, Melek Pilavı
-Salata, Yoğurt, Turşu
-AKŞAM YEMEĞİ
-Mahluta Çorba
-Tavuk Döner
-Falafel
-Pirinç Pilavı, Soslu Makarna
-Salata, Fanta, Ayran
-    },
-    {
-
-  ÖĞLE YEMEĞİ
-Alaca Çorba
-Püreli Tas Kebabı
-Zy.Orbit Fasulye
-Melek Pilavı, Bulgur Pilavı
-Kola, Salata, Supangle
-AKŞAM YEMEĞİ
-Cennet Çorba
-Fırın Patates Oturtma
-Etsiz Fırın Patates
-Pirinç Pilavı, Kuskus Makarna
-Salata, Ayran, Meyve
-    },
-    {
-
-  ÖĞLE YEMEĞİ
-Elvankız Çorba
-Manisa Kırkağaç Köfte
-Mercimek Yemeği
-Pirinç Pilavı, Bulgur Pilavı
-Salata, Kola, Yoğurt
-AKŞAM YEMEĞİ
-Kafkas Çorba
-Etli Bezelye
-Etsiz Bezelye
-Pirinç Pilavı, Fırın Makarna
-Hayrabolu Tatlı, Meyve, Ayran
+      "tarih": "14 Ekim 2022",
+      "corba": "Yayla Çorba",
+      "ana_yemek": "Etli Kuru Fasulye",
+      "vegan": "Etsiz Kuru Fasulye",
+      "yardimci_yemek": "Bulgur Pilavı, Melek Pilavı",
+      "secmeli": "Salata, Yoğurt, Turşu",
+      "corba2": "Mahluta Çorba",
+      "ana_yemek2": "Tavuk Döner",
+      "vegan2": "Falafel",
+      "yardimci_yemek2": "Pirinç Pilavı, Soslu Makarna",
+      "secmeli2": "Salata, Fanta, Ayran"
     }
     
   ]
