@@ -12,8 +12,8 @@
       "vegan2": "Zeyinyağlı Brüksel Lahana Yemeği",
       "yardimci_yemek2": "Soslu Makarna, Pirinç Pilavı",	
       "secmeli2": "Salata, Ayran, Revani"	    
-    },
-{
+      },
+    {
       "tarih": "12 Ekim 2022",
       "corba": "Alaca Çorba",
       "ana_yemek": "Akçaabat Köfte",
@@ -25,7 +25,7 @@
       "vegan2": "Sebze Sote",
       "yardimci_yemek2": "Pirinç Pilavı, Bulgur Pilavı",
       "secmeli2": "Salata, Ayran, Soda"
-},
+      },
     {
 
       "tarih": "13 Ekim 2022",
@@ -39,7 +39,7 @@
       "vegan2": "Bezelye Yemeği",
       "yardimci_yemek2": "Pirinç Pilavı, Bulgur Pilavı",
       "secmeli2": "Salata, Cevizli Kadayıf, Ayran"
-    },
+      },
     {  
 
       "tarih": "14 Ekim 2022",
@@ -53,7 +53,7 @@
       "vegan2": "Falafel",
       "yardimci_yemek2": "Pirinç Pilavı, Soslu Makarna",
       "secmeli2": "Salata, Fanta, Ayran"
-    },
+      },
     {
       "tarih": "15 Ekim 2022",
       "corba": "Alaca Çorba",
@@ -66,7 +66,7 @@
       "vegan2": "Etsiz Fırın Patates",
       "yardimci_yemek2": "Pirinç Pilavı, Kuskus Makarna",
       "secmeli2": "Salata, Ayran, Meyve"
-    },
+      },
     {
       "tarih": "16 Ekim 2022",
       "corba": "Elvankız Çorba",
@@ -79,6 +79,97 @@
       "vegan2": "Etsiz Bezelye",
       "yardimci_yemek2": "Pirinç Pilavı, Fırın Makarna",
       "secmeli2": "Hayrabolu Tatlı, Meyve, Ayran"
-    }   
+      },
+    {
+      "tarih": "17 Ekim 2022",
+      "corba": "Sebze Çorba",
+      "ana_yemek": "Mantarlı Tavuk Sote",
+      "vegan": "Mantar Sote",
+      "yardimci_yemek": "Melek Pilavı, Erişte",
+      "secmeli": "Salata, Ayran, Kadayıflı Muhallebi",
+      "corba2": "Aşçıbaşı Çorba",
+      "ana_yemek2": "Etli Güveç",
+      "vegan2": "Sebze Türlü",
+      "yardimci_yemek2": "Pirinç Pilavı, Bulgur Pilavı",
+      "secmeli2": "Salata, Çiğ köfte, Yoğurt"
+      },
+    {
+      "tarih": "18 Ekim 2022",
+      "corba": "Ezogelin Çorba",
+      "ana_yemek": "Ekşili Köfte",
+      "vegan": "Harput Köfte",
+      "yardimci_yemek": "Bulgur Pilavı, Soslu Makarna",
+      "secmeli": "Salata, Meyve, Lokma Tatlısı",
+      "corba2": "Saray Çorba",
+      "ana_yemek2": "Kıymalı Kuru Patlıcan Dolma",
+      "vegan2": "Zy.Dolma",
+      "yardimci_yemek2": "Su Böreği, Soslu Spagetti",
+      "secmeli2": "Salata, Soda, Puding"
+      },
+    {
+      "tarih": "19 Ekim 2022",
+      "corba": "Alaca Çorba",
+      "ana_yemek": "Sini Kebabı",
+      "vegan": "Orbit Fasulye
+      "yardimci_yemek": "Havuçlu Pirinç Pilavı, Bulgur Pilavı",
+      "secmeli": "Mercimek Köfte, Meyve, Soda",
+      "corba2": "Mantar Çorba",
+      "ana_yemek2": "Fırın Tavuk Baget",
+      "vegan2": "Zy. Brüksel Lahana",
+      "yardimci_yemek2": "İç Pilav, Peynirli Makarna",
+      "secmeli2": "Salata, Ayran, Şekerpare"
+      },
+    {
+      "tarih": "20 Ekim 2022",
+      "corba": "Mercimek Çorba",
+      "ana_yemek": "Sulu Köfte",
+      "vegan": "Ispanak Yemeği",
+      "yardimci_yemek": "Bulgur Pilavı, Soslu Makarna",
+      "secmeli": "Salata, Ayran, Meyve",
+      "corba2": "Arpa Şehriye Çorba",
+      "ana_yemek2": "Patlıcan Musakka",
+      "vegan2": "Patlıcan Yemeği",
+      "yardimci_yemek2": "Bulgur Pilavı, Melek Pilavı",
+      "secmeli2": "Cacık, Meyve, Kola"
+      },
+    {
+      "tarih": "21 Ekim 2022",
+      "corba": "Buğday Çorba",
+      "ana_yemek": "Etli Mantar Sote",
+      "vegan": "Mantar Sote",
+      "yardimci_yemek": "Sebzeli Bulgur Pilavı, Şehriyeli Pirinç Pilavı",
+      "secmeli": "Fanta, Salata, Yoğurt",
+      "corba2": "Soğan Çorbası",
+      "ana_yemek2": "Tavuk Şinitzel",
+      "vegan2": "Kereviz Yemeği",
+      "yardimci_yemek2": "Soslu Makarna, Zy. Orbit Fasulye",
+      "secmeli2": "Salata, Ayran, Kola"
+      },
+    {
+      "tarih": "22 Ekim 2022",
+      "corba": "Domates Çorba",
+      "ana_yemek": "Etli Sebzeli Güveç",
+      "vegan": "Sebze Güveç",
+      "yardimci_yemek": "Fırın Makarna, Bulgur Pilavı",
+      "secmeli": "Salata, Meyve, Yoğurt",
+      "corba2": "Şafak Çorba",
+      "ana_yemek2": "Kıymalı Kuru Patlıcan Dolma",
+      "vegan2": "Zy.Patlıcan Dolma",
+      "yardimci_yemek2": "Gül Böreği, Soslu Makarna",
+      "secmeli2": "Patates Salata, Meyve, Soda"
+      },
+    {
+      "tarih": "23 Ekim 2022",
+      "corba": "Ezogelin Çorba",
+      "ana_yemek": "Kök Kanat",
+      "vegan": "Zy.Pırasa",
+      "yardimci_yemek": "Pirinç Pilavı, Arpa Şehriye Pilavı",
+      "secmeli": "Salata, Çilekli Kazandibi, Ayran",
+      "corba2": "Şef'in Çorbası",
+      "ana_yemek2": "Etli Nohut",
+      "vegan2": "Etsiz Nohut",
+      "yardimci_yemek2": "Pirinç Pilavı, Bulgur Pilavı",
+      "secmeli2": "Salata, Yoğurt, Turşu"
+    }
   ]
 }
