@@ -170,6 +170,32 @@
       "vegan2": "Etsiz Nohut",
       "yardimci_yemek2": "Pirinç Pilavı, Bulgur Pilavı",
       "secmeli2": "Salata, Yoğurt, Turşu"
+      },
+    {
+      "tarih": "24 Ekim 2022", 
+      "corba": "Köy Çorba",
+      "ana_yemek": "Püreli Hasanpaşa Köfte",
+      "vegan": "Bulgur Köfte",
+      "yardimci_yemek": "Pirinç Pilavı, Bulgur Pilavı",
+      "secmeli": "Salata, Ayran, Meyve",
+      "corba2": "Süzme Mercimek Çorba",
+      "ana_yemek2": "Etli Bezelye",
+      "vegan2": "Etsiz Bezelye",
+      "yardimci_yemek2": "Mısırlı Pirinç Pilavı, Bulgur Pilavı",
+      "secmeli2": "Salata, Cacık, Baklava"
+      },
+    {
+      "tarih": "25 Ekim 2022",
+      "corba": "Cennet Çorba",
+      "ana_yemek": "Çiftlik Kebabı",
+      "vegan": "Sebze Güveç",
+      "yardimci_yemek": "Melek Pilavı, Bulgur Pilavı",
+      "secmeli": "Çiğ köfte, Yoğurt, Meyve",
+      "corba2": "Şehriye Çorba",
+      "ana_yemek2": "Tavuk Fajita",
+      "vegan2": "Zy.Kereviz",
+      "yardimci_yemek2": "Soslu Makarna, Sebzeli Pirinç Pilavı",
+      "secmeli2": "Salata, Ayran, Meyve Suyu"
     }
   ]
 }
