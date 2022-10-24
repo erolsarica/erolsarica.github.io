@@ -196,8 +196,8 @@
       "vegan2": "Zy.Kereviz",
       "yardimci_yemek2": "Soslu Makarna, Sebzeli Pirinç Pilavı",
       "secmeli2": "Salata, Ayran, Meyve Suyu"
-    },
-        {
+      },
+    {
       "tarih": "26 Ekim 2022",
       "corba": "Domates Çorba",
       "ana_yemek": "Et Döner",
@@ -209,8 +209,8 @@
       "vegan2": "Ispanak Yemeği",
       "yardimci_yemek2": "Soslu Makarna, Kol Böreği",
       "secmeli2": "Salata, Supangle, Meyve"
-        },
-          {
+      },
+    {
       "tarih": "27 Ekim 2022",
       "corba": "Ezogelin Çorba",
       "ana_yemek": "Etli Taze Fasulye",
@@ -222,8 +222,8 @@
       "vegan2": "Falafel",
       "yardimci_yemek2": "Soslu Makarna, Bulgur Pilavı",
       "secmeli2": "Şekerpare, Kola, Salata"
-          },
-      {
+      },
+    {
       "tarih": "28 Ekim 2022",
       "corba": "Tarhana Çorba",
       "ana_yemek": "Böfstrogonof",
@@ -236,7 +236,7 @@
       "yardimci_yemek2": "Pirinç Pilavı, Bulgur Pilavı",
       "secmeli2": "Salata, Cacık, Meyve"
       },
-      {
+    {
       "tarih": "29 Ekim 2022",
       "corba": "Toyga Çorba",
       "ana_yemek": "Kibrit Kebabı",
@@ -249,7 +249,7 @@
       "yardimci_yemek2": "Sebzeli Makarna, Gül Böreği",
       "secmeli2": "Salata, Soslu Muhallebi, Meyve"
       },
-      {
+    {
       "tarih": "30 Ekim 2022",
       "corba": "Mercimek Çorba",
       "ana_yemek": "Etli Mantı",
@@ -262,7 +262,7 @@
       "yardimci_yemek2": "Pirinç Pilavı, Bulgur Pilavı",
       "secmeli2": "Salata, Yoğurt, Mercimek Köfte"
       },
-          {
+    {
       "tarih": "31 Ekim 2022",
       "corba": "Domates Çorba",
       "ana_yemek": "Patlıcan Kebabı",
@@ -274,6 +274,6 @@
       "vegan2": "Mantar Sote",
       "yardimci_yemek2": "Pirinç Pilavı, Bulgur Pilavı",
       "secmeli2": "Salata, Ayran, Baklava"
-          }
+      }
   ]
 }
