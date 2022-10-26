@@ -1,8 +1,8 @@
 {
   "Yemekler": [
 {
-      "tarih": "11 Ekim 2022",
-      "corba": "Kabak Çorba",
+      "tarih": "10 Ekim 2022",
+      "corba": "Köy Çorba",
       "ana_yemek": "Ispanaklı Tavuk Sarma",
       "vegan": "Sıcak Barbunya",
       "yardimci_yemek": "Pirinç Pilavı, Soslu Makarna",	
@@ -14,6 +14,19 @@
       "secmeli2": "Salata, Ayran, Revani"	    
       },
     {
+      "tarih": "11 Ekim 2022",
+      "corba": "Kabak Çorba",
+      "ana_yemek": "Ispanaklı Tavuk Sarma",
+      "vegan": "Sıcak Barbunya",
+      "yardimci_yemek": "Pirinç Pilavı, Soslu Makarna",	
+      "secmeli": "Salata, Ayran, Meyve",
+      "corba2": "Domates Çorba",
+      "ana_yemek2": "Püreli Sini Kebabı",
+      "vegan2": "Zeyinyağlı Brüksel Lahana Yemeği",
+      "yardimci_yemek2": "Soslu Makarna, Pirinç Pilavı",	
+      "secmeli2": "Salata, Ayran, Revani"	
+      },
+     {
       "tarih": "12 Ekim 2022",
       "corba": "Alaca Çorba",
       "ana_yemek": "Akçaabat Köfte",
