@@ -287,6 +287,19 @@
       "vegan2": "Mantar Sote",
       "yardimci_yemek2": "Pirinç Pilavı, Bulgur Pilavı",
       "secmeli2": "Salata, Ayran, Baklava"
-      }
+      },
+    {
+      "tarih": "01 Kasım 2022",
+      "corba": "Şehriye Çorba",
+      "ana_yemek": "Etli Nohut",
+      "vegan": "Etsiz Nohut",
+      "yardimci_yemek": "Pirinç Pilavı, Sebzeli Bulgur Pilavı",
+      "secmeli": "Ayran, Salata, Turşu",
+      "corba2": "Mercimek Çorba",
+      "ana_yemek2": "Sini Kebabı",
+      "vegan2": "Mücver",
+      "yardimci_yemek2": "Pirinç Pilavı, Soslu Makarna",
+      "secmeli2": "Salata, Meyve, Lokma Tatlısı"
+      } 
   ]
 }
