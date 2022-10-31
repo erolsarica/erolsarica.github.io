@@ -300,6 +300,19 @@
       "vegan2": "Mücver",
       "yardimci_yemek2": "Pirinç Pilavı, Soslu Makarna",
       "secmeli2": "Salata, Meyve, Lokma Tatlısı"
+      },
+    {
+      "tarih": "02 Kasım 2022",
+      "corba": "Domates Çorba",
+      "ana_yemek": "Püreli Tas Kebabı",
+      "vegan": "Sebze Güveç",
+      "yardimci_yemek": "Melek Pilavı, Bulgur Pilavı",
+      "secmeli": "Salata, Yoğurt, Soda",
+      "corba2": "Süzme Mercimek Çorba",
+      "ana_yemek2": "Fırın Köfte",
+      "vegan2": "Harput Köfte",
+      "yardimci_yemek2": "Su Böreği, Gökkuşağı Pilavı",
+      "secmeli2": "Havuç Tarator, Kola, Meyve"
       } 
   ]
 }
