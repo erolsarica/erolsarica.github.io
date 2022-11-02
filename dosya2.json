@@ -38,6 +38,32 @@
       "vegan2": "Karışık Kızartma",
       "yardimci_yemek2": "Bulgur Pilavı, Melek Pilavı",
       "secmeli2": "Mor Salata, Yoğurt, Meyve"
+      },
+    {
+      "tarih": "4 Kasım 2022",
+      "corba": "Köy Çorba",
+      "ana_yemek": "Tavuk Kanat",
+      "vegan": "Patates Yemeği",
+      "yardimci_yemek": "Erişte, Pirinç Pilavı",
+      "secmeli": "Salata, Ayran, Meyve",
+      "corba2": "Sebze Çorba",
+      "ana_yemek2": "Kıymalı Mercimek",
+      "vegan2": "Mercimek Yemeği",
+      "yardimci_yemek2": "Soslu Makarna, Su Böreği",
+      "secmeli2": "Salata, Cevizli Baklava, Meyve"
+      },
+    {
+      "tarih": "5 Kasım 2022",
+      "corba": "Şehriye Çorba",
+      "ana_yemek": "Etli Kuru Fasulye",
+      "vegan": "Etsiz Kuru Fasulye",
+      "yardimci_yemek": "Pirinç Pilavı, Arpa Şehriye Pilavı",
+      "secmeli": "Salata, Turşu, Yoğurt",
+      "corba2": "Mantar Çorba",
+      "ana_yemek2": "Karışık Oturtma",
+      "vegan2": "Şakşuka",
+      "yardimci_yemek2": "Melek Pilavı, Bulgur Pilavı",
+      "secmeli2": "Cacık, Meyve, Revani"
       }
   ]
 }
