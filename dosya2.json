@@ -64,6 +64,19 @@
       "vegan2": "Şakşuka",
       "yardimci_yemek2": "Melek Pilavı, Bulgur Pilavı",
       "secmeli2": "Cacık, Meyve, Revani"
+      },
+    {
+      "tarih": "6 Kasım 2022",
+      "corba": "Sebze Çorba",
+      "ana_yemek": "Beef Navarin",
+      "vegan": "Zy.Orbit Fasulye",
+      "yardimci_yemek": "Pirinç Pilavı, Bulgur Pilavı",
+      "secmeli": "Salata, Yoğurt, Çiğ köfte",
+      "corba2": "Elvankız Çorba",
+      "ana_yemek2": "İzmir Köfte",
+      "vegan2": "Kereviz Yemeği",
+      "yardimci_yemek2": "Bulgur Pilavı, Melek Pilavı",
+      "secmeli2": "Humus, Limonlu Soda, Mozaik Pasta"
       }
   ]
 }
