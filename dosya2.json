@@ -103,6 +103,32 @@
       "vegan2": "Nohutlu Kabak",
       "yardimci_yemek2": "Soslu Makarna, Erişte",
       "secmeli2": "Mısırlı Salata, Ayran, Soda"
+      },
+    {
+      "tarih": "9 Kasım 2022",
+      "corba": "Süzme Mercimek Çorba",
+      "ana_yemek": "Sahan Köfte",
+      "vegan": "Pırasa Yemeği",
+      "yardimci_yemek": "Pirinç Pilavı, Mantar Soslu Makarna",
+      "secmeli": "Salata, Meyve, Meyveli Soda",
+      "corba2": "Saray Çorba",
+      "ana_yemek2": "Etli Nohut",
+      "vegan2": "Etsiz Nohut",
+      "yardimci_yemek2": "Pirinç Pilavı, Bulgur Pilavı",
+      "secmeli2": "Salata, Turşu, Peynir Tatlısı"
+      },
+    {
+      "tarih": "10 Kasım 2022",
+      "corba": "Yayla Çorba",
+      "ana_yemek": "Etli Taze Fasulye",
+      "vegan": "Zy. Taze Fasulye",
+      "yardimci_yemek": "Sebzeli Bulgur Pilavı, Melek Pilavı",
+      "secmeli": "Salata, Cevizli Kadayıf, Yoğurt",
+      "corba2": "Mercimek Çorba",
+      "ana_yemek2": "Kök Kanat",
+      "vegan2": "Fırın Mücver",
+      "yardimci_yemek2": "Bulgur Pilavı, Spagetti",
+      "secmeli2": "Meyve, Salata, Kola"
       }
   ]
 }
