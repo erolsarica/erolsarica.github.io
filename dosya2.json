@@ -130,7 +130,7 @@
       "yardimci_yemek2": "Bulgur Pilavı, Spagetti",
       "secmeli2": "Meyve, Salata, Kola"
       },
-        {
+    {
       "tarih": "11 Kasım 2022",
       "corba": "Mantar Çorba",
       "ana_yemek": "Et Döner",
@@ -142,6 +142,19 @@
       "vegan2": "Sebze Sote",
       "yardimci_yemek2": "Bulgur Pilavı, Melek Pilavı",
       "secmeli2": "Cacık, Meyve, Fanta"
+      },
+    {
+      "tarih": "12 Kasım 2022",
+      "corba": "Andaloz Çorba",
+      "ana_yemek": "Yayla Soslu Tavuk",
+      "vegan": "Nohutlu Brüksel Lahana",
+      "yardimci_yemek": "Pirinç Pilavı, Bulgur Pilavı",
+      "secmeli": "Salata, Meyve, Mor Dünya",
+      "corba2": "Ezogelin Çorba",
+      "ana_yemek2": "Kıymalı Kuru Patlıcan Dolma",
+      "vegan2": "Zy.Patlıcan Dolma",
+      "yardimci_yemek2": "Su Böreği, Makarna",
+      "secmeli2": "Salata, Meyve, Soda"
       }
   ]
 }
