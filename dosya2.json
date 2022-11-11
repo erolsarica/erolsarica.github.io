@@ -155,6 +155,19 @@
       "vegan2": "Zy.Patlıcan Dolma",
       "yardimci_yemek2": "Su Böreği, Makarna",
       "secmeli2": "Salata, Meyve, Soda"
+      },
+    {
+      "tarih": "13 Kasım 2022",
+      "corba": "Tarhana Çorba",
+      "ana_yemek": "Tavuk Şinitzel",
+      "vegan": "Şakşuka",
+      "yardimci_yemek": "Makarna, Erişte",
+      "secmeli": "Meyve, Salata, Ayran",
+      "corba2": "Tavuk Suyu Çorba",
+      "ana_yemek2": "Etli Barbunya",
+      "vegan2": "Zy.Barbunya",
+      "yardimci_yemek2": "Kol Böreği, Pirinç Pilavı",
+      "secmeli2": "Salata, Fanta, Meyve"
       }
   ]
 }
