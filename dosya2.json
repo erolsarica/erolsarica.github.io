@@ -194,6 +194,19 @@
       "vegan2": "Kereviz Yemeği",
       "yardimci_yemek2": "Erişte, Bulgur Pilavı",
       "secmeli2": "Salata, Ayran, Meyve"
+      },
+    {
+      "tarih": "16 Kasım 2022",
+      "corba": "Tutmaç Çorba",
+      "ana_yemek": "Tavuk Külbastı",
+      "vegan": "Karnabahar Yemeği",
+      "yardimci_yemek": "Pirinç Pilavı, Erişte",
+      "secmeli": "Salata, Yoğurt, Tulumba Tatlısı",
+      "corba2": "Domates Çorba",
+      "ana_yemek2": "İzmir Köfte",
+      "vegan2": "Harput Köfte",
+      "yardimci_yemek2": "Mercimekli Bulgur Pilavı, Pirinç Pilavı",
+      "secmeli2": "Salata, Supangle, Ayran"
       }
   ]
 }
