@@ -207,6 +207,19 @@
       "vegan2": "Harput Köfte",
       "yardimci_yemek2": "Mercimekli Bulgur Pilavı, Pirinç Pilavı",
       "secmeli2": "Salata, Supangle, Ayran"
+      },
+    {
+      "tarih": "17 Kasım 2022",
+      "corba": "Mantar Çorba",
+      "ana_yemek": "Kıymalı Mercimek",
+      "vegan": "Mercimek Yemeği",
+      "yardimci_yemek": "Köri Soslu Makarna, Su Böreği",
+      "secmeli": "Baklava, Meyve, Soda",
+      "corba2": "Tel Şehriye Çorba",
+      "ana_yemek2": "Etli Güveç",
+      "vegan2": "Sebze Güveç",
+      "yardimci_yemek2": "Bulgur Pilavı, Melek Pilavı",
+      "secmeli2": "Meyve, Salata, Cacık"
       }
   ]
 }
