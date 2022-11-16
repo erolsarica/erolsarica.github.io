@@ -220,6 +220,19 @@
       "vegan2": "Sebze Güveç",
       "yardimci_yemek2": "Bulgur Pilavı, Melek Pilavı",
       "secmeli2": "Meyve, Salata, Cacık"
+      },
+    {
+      "tarih": "18 Kasım 2022",
+      "corba": "Ezogelin Çorba",
+      "ana_yemek": "Arnavut Ciğeri",
+      "vegan": "Orbit Fasulye",
+      "yardimci_yemek": "Bulgur Pilavı, Pirinç Pilavı",
+      "secmeli": "Salata, Meyve, Kola",
+      "corba2": "Yayla Çorba",
+      "ana_yemek2": "Etli Barbunya",
+      "vegan2": "Zy.Barbunya",
+      "yardimci_yemek2": "Sebzeli Bulgur Pilavı, Pirinç Pilavı",
+      "secmeli2": "Turşu, Meyve, Kemalpaşa"
       }
   ]
 }
