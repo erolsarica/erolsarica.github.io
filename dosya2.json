@@ -233,6 +233,19 @@
       "vegan2": "Zy.Barbunya",
       "yardimci_yemek2": "Sebzeli Bulgur Pilavı, Pirinç Pilavı",
       "secmeli2": "Turşu, Meyve, Kemalpaşa"
+      },
+    {
+      "tarih": "19 Kasım 2022",
+      "corba": "Köy Çorba",
+      "ana_yemek": "Tavuk Döner",
+      "vegan": "Falafel",
+      "yardimci_yemek": "Pirinç Pilavı, Soslu Makarna",
+      "secmeli": "Salata, Ayran, Hayrabolu Tatlı",
+      "corba2": "Kafkas Çorba",
+      "ana_yemek2": "Karışık Musakka",
+      "vegan2": "Patlıcan Yemeği",
+      "yardimci_yemek2": "Bulgur Pilavı, Kuskus Makarna",
+      "secmeli2": "Meyve, Salata, Cacık"
       }
   ]
 }
