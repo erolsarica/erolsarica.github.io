@@ -272,6 +272,19 @@
       "vegan2": "Zy.Orbit Fasulye",
       "yardimci_yemek2": "Soslu Makarna, Su Böreği",
       "secmeli2": "Çiğ köfte, Meyve, Soda"
+      },
+    {
+      "tarih": "22 Kasım 2022",
+      "corba": "Tutmaç Çorba",
+      "ana_yemek": "Kıymalı Karnabahar",
+      "vegan": "Karnabahar Yemeği",
+      "yardimci_yemek": "Soslu Spagetti, Pirinç Pilavı",
+      "secmeli": "Kısır, Soda, Supangle",
+      "corba2": "Yayla Çorba",
+      "ana_yemek2": "Etli Karışık Dolma",
+      "vegan2": "Zy.Dolma",
+      "yardimci_yemek2": "Gül Böreği, Makarna",
+      "secmeli2": "Salata, Meyve, Kazandibi"
       }
   ]
 }
