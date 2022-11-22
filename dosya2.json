@@ -288,16 +288,16 @@
       },
     {
       "tarih": "23 Kasım 2022",
-      "corba": "Tutmaç Çorba",
-      "ana_yemek": "Kıymalı Karnabahar",
-      "vegan": "Karnabahar Yemeği",
-      "yardimci_yemek": "Soslu Spagetti, Pirinç Pilavı",
-      "secmeli": "Kısır, Soda, Supangle",
-      "corba2": "Yayla Çorba",
-      "ana_yemek2": "Etli Karışık Dolma",
-      "vegan2": "Zy.Dolma",
-      "yardimci_yemek2": "Gül Böreği, Makarna",
-      "secmeli2": "Salata, Meyve, Kazandibi"
+      "corba": "Domates Çorba",
+      "ana_yemek": "Macar Gulaş",
+      "vegan": "Falafel",
+      "yardimci_yemek": "Erişte, Şehriyeli Pirinç Pilavı",
+      "secmeli": "Salata, Kabak Borani, Kola",
+      "corba2": "Mercimek Çorba",
+      "ana_yemek2": "Mantarlı Soslu Mitite Köfte",
+      "vegan2": "Karışık Kızartma",
+      "yardimci_yemek2": "Pirinç Pilavı, Sebzeli Bulgur Pilavı",
+      "secmeli2": "Salata, Ayran, Meyve"
       }
   ]
 }
