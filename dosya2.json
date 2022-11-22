@@ -298,6 +298,19 @@
       "vegan2": "Karışık Kızartma",
       "yardimci_yemek2": "Pirinç Pilavı, Sebzeli Bulgur Pilavı",
       "secmeli2": "Salata, Ayran, Meyve"
+      },
+    {
+      "tarih": "24 Kasım 2022",
+      "corba": "Ezogelin Çorba",
+      "ana_yemek": "Kıymalı Ispanak",
+      "vegan": "Ispanak Yemeği",
+      "yardimci_yemek": "Melek Pilavı, Su Böreği",
+      "secmeli": "Soda, Meyve, Cevizli Kadayıf",
+      "corba2": "Tarhana Çorba",
+      "ana_yemek2": "Mantarlı Tavuk Sote",
+      "vegan2": "Sebze Sote",
+      "yardimci_yemek2": "Pirinç Pilavı, Arpa Şehriye Pilavı",
+      "secmeli2": "Keşkül, Salata, Ayran"
       }
   ]
 }
