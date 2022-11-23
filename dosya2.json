@@ -311,6 +311,19 @@
       "vegan2": "Sebze Sote",
       "yardimci_yemek2": "Pirinç Pilavı, Arpa Şehriye Pilavı",
       "secmeli2": "Keşkül, Salata, Ayran"
+      },
+    {
+      "tarih": "25 Kasım 2022",
+      "corba": "Toyga Çorba",
+      "ana_yemek": "Çiftlik Kebabı",
+      "vegan": "Zy.Enginar",
+      "yardimci_yemek": "Mercimekli Bulgur Pilavı, Pirinç Pilavı",
+      "secmeli": "Salata, Yoğurt, Meyve",
+      "corba2": "Mahluta Çorba",
+      "ana_yemek2": "Etli Kuru Fasulye",
+      "vegan2": "Etsiz Kuru Fasulye",
+      "yardimci_yemek2": "Pirinç Pilavı, Arpa Şehriye Pilavı",
+      "secmeli2": "Keşkül, Salata, Ayran"
       }
   ]
 }
