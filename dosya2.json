@@ -327,16 +327,16 @@
       },
     {
       "tarih": "26 Kasım 2022",
-      "corba": "Toyga Çorba",
-      "ana_yemek": "Çiftlik Kebabı",
-      "vegan": "Zy.Enginar",
-      "yardimci_yemek": "Mercimekli Bulgur Pilavı, Pirinç Pilavı",
-      "secmeli": "Salata, Yoğurt, Meyve",
-      "corba2": "Mahluta Çorba",
-      "ana_yemek2": "Etli Kuru Fasulye",
-      "vegan2": "Etsiz Kuru Fasulye",
-      "yardimci_yemek2": "Bulgur Pilavı, Pirinç Pilavı",
-      "secmeli2": "Turşu, Ayran, Meyve"
+      "corba": "Antep Çorba",
+      "ana_yemek": "Sahan Köfte",
+      "vegan": "Kabak Yemeği",
+      "yardimci_yemek": "Pirinç Pilavı, Soslu Makarna",
+      "secmeli": "Salata, Soda, Mandalina",
+      "corba2": "Yayla Çorba",
+      "ana_yemek2": "Etli Güveç",
+      "vegan2": "Etsiz Güveç",
+      "yardimci_yemek2": "Pirinç Pilavı, Patatesli Gül Böreği",
+      "secmeli2": "Kola, Hindistan Cevizli Muhallebi, Meyve"
       }
   ]
 }
