@@ -337,6 +337,19 @@
       "vegan2": "Etsiz Güveç",
       "yardimci_yemek2": "Pirinç Pilavı, Patatesli Gül Böreği",
       "secmeli2": "Kola, Hindistan Cevizli Muhallebi, Meyve"
+      },
+    {
+      "tarih": "27 Kasım 2022",
+      "corba": "Antep Çorba",
+      "ana_yemek": "Sahan Köfte",
+      "vegan": "Kabak Yemeği",
+      "yardimci_yemek": "Pirinç Pilavı, Soslu Makarna",
+      "secmeli": "Salata, Soda, Mandalina",
+      "corba2": "Yayla Çorba",
+      "ana_yemek2": "Etli Güveç",
+      "vegan2": "Etsiz Güveç",
+      "yardimci_yemek2": "Pirinç Pilavı, Patatesli Gül Böreği",
+      "secmeli2": "Kola, Hindistan Cevizli Muhallebi, Meyve"
       }
   ]
 }
