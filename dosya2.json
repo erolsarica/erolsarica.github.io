@@ -353,16 +353,16 @@
       },
     {
       "tarih": "28 Kasım 2022",
-      "corba": "Köy Çorba",
-      "ana_yemek": "Kibrit Kebabı",
-      "vegan": "Zy.Pırasa",
-      "yardimci_yemek": "Köri Soslu Makarna, Bulgur Pilavı",
-      "secmeli": "Salata, Mozaik Pasta, Meyve",
-      "corba2": "Süzme Mercimek Çorba",
-      "ana_yemek2": "Piliç Cordon Bleu",
-      "vegan2": "Falafel",
-      "yardimci_yemek2": "Pirinç Pilavı, Sebzeli Makarna",
-      "secmeli2": "Salata, Ayran, Meyve"
+      "corba": "Mercimek Çorba",
+      "ana_yemek": "Piliç Emense",
+      "vegan": "Zy.Bamya",
+      "yardimci_yemek": "Melek Pilavı, Bulgur Pilavı",
+      "secmeli": "Mor Dünya, Sade Soda, Meyve",
+      "corba2": "Tarhana Çorba",
+      "ana_yemek2": "Etli Taze Fasulye",
+      "vegan2": "Etsiz Taze Fasulye",
+      "yardimci_yemek2": "Erişte, Pirinç Pilavı",
+      "secmeli2": "Meyve, Turp Salata, Soda"
       }
   ]
 }
