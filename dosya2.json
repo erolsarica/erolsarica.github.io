@@ -350,6 +350,19 @@
       "vegan2": "Falafel",
       "yardimci_yemek2": "Pirinç Pilavı, Sebzeli Makarna",
       "secmeli2": "Salata, Ayran, Meyve"
+      },
+    {
+      "tarih": "28 Kasım 2022",
+      "corba": "Köy Çorba",
+      "ana_yemek": "Kibrit Kebabı",
+      "vegan": "Zy.Pırasa",
+      "yardimci_yemek": "Köri Soslu Makarna, Bulgur Pilavı",
+      "secmeli": "Salata, Mozaik Pasta, Meyve",
+      "corba2": "Süzme Mercimek Çorba",
+      "ana_yemek2": "Piliç Cordon Bleu",
+      "vegan2": "Falafel",
+      "yardimci_yemek2": "Pirinç Pilavı, Sebzeli Makarna",
+      "secmeli2": "Salata, Ayran, Meyve"
       }
   ]
 }
