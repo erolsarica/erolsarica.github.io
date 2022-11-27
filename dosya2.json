@@ -357,7 +357,7 @@
       "ana_yemek": "Piliç Emense",
       "vegan": "Zy.Bamya",
       "yardimci_yemek": "Melek Pilavı, Bulgur Pilavı",
-      "secmeli": "Mor Dünya, Sade Soda, Meyve",
+      "secmeli": "Salata, Ayran, Çikolatalı Puding",
       "corba2": "Tarhana Çorba",
       "ana_yemek2": "Etli Taze Fasulye",
       "vegan2": "Etsiz Taze Fasulye",
@@ -366,29 +366,29 @@
       },
     {
       "tarih": "29 Kasım 2022",
-      "corba": "Mercimek Çorba",
-      "ana_yemek": "Piliç Emense",
-      "vegan": "Zy.Bamya",
-      "yardimci_yemek": "Melek Pilavı, Bulgur Pilavı",
+      "corba": "Kafkas Çorba",
+      "ana_yemek": "Kabak Beğendili Köfte",
+      "vegan": "Harput Köfte",
+      "yardimci_yemek": "Havuçlu Pirinç Pilavı, Soslu Makarna",
       "secmeli": "Mor Dünya, Sade Soda, Meyve",
-      "corba2": "Tarhana Çorba",
-      "ana_yemek2": "Etli Taze Fasulye",
-      "vegan2": "Etsiz Taze Fasulye",
-      "yardimci_yemek2": "Erişte, Pirinç Pilavı",
-      "secmeli2": "Meyve, Turp Salata, Soda"
+      "corba2": "Saray Çorba",
+      "ana_yemek2": "Etli Nohut",
+      "vegan2": "Etsiz Nohut",
+      "yardimci_yemek2": "Pirinç Pilavı, Bulgur Pilavı",
+      "secmeli2": "Ayran, Turşu, Soda"
       },
     {
       "tarih": "30 Kasım 2022",
-      "corba": "Mercimek Çorba",
-      "ana_yemek": "Piliç Emense",
+      "corba": "Domates Çorba",
+      "ana_yemek": "Zy.Barbunya",
       "vegan": "Zy.Bamya",
-      "yardimci_yemek": "Melek Pilavı, Bulgur Pilavı",
-      "secmeli": "Mor Dünya, Sade Soda, Meyve",
-      "corba2": "Tarhana Çorba",
-      "ana_yemek2": "Etli Taze Fasulye",
-      "vegan2": "Etsiz Taze Fasulye",
-      "yardimci_yemek2": "Erişte, Pirinç Pilavı",
-      "secmeli2": "Meyve, Turp Salata, Soda"
+      "yardimci_yemek": "Arpa Şehriye Pilavı, Bulgur Pilavı",
+      "secmeli": "Salata, Meyve, Soda",
+      "corba2": "Ezogelin Çorba",
+      "ana_yemek2": "Kıymalı Ispanak",
+      "vegan2": "Ispanak Yemeği",
+      "yardimci_yemek2": "Soslu Makarna, Su Böreği",
+      "secmeli2": "Mercimek Köfte, Kadayıflı Muhallebi, Meyve"
       }
   ]
 }
