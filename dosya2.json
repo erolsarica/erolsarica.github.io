@@ -1,19 +1,6 @@
 {
   "Yemekler": [
 {
-      "tarih": "29 Kasım 2022",
-      "corba": "Kafkas Çorba",
-      "ana_yemek": "Kabak Beğendili Köfte",
-      "vegan": "Harput Köfte",
-      "yardimci_yemek": "Havuçlu Pirinç Pilavı, Soslu Makarna",
-      "secmeli": "Mor Dünya, Sade Soda, Meyve",
-      "corba2": "Saray Çorba",
-      "ana_yemek2": "Etli Nohut",
-      "vegan2": "Etsiz Nohut",
-      "yardimci_yemek2": "Pirinç Pilavı, Bulgur Pilavı",
-      "secmeli2": "Ayran, Turşu, Soda"
-      },
-    {
       "tarih": "30 Kasım 2022",
       "corba": "Domates Çorba",
       "ana_yemek": "Mantar Soslu Tavuk Biftek",
@@ -38,6 +25,19 @@
       "vegan2": "Sebze Güveç",
       "yardimci_yemek2": "Pirinç Pilavı, Soslu Makarna",
       "secmeli2": "Salata, Soda, Meyve"
+      },
+    {
+      "tarih": "2 Aralık 2022",
+      "corba": "Domates Çorba",
+      "ana_yemek": "Etli Taze Fasulye",
+      "vegan": "Zy.Taze Fasulye",
+      "yardimci_yemek": "Melek Pilavı, Bulgur Pilavı",
+      "secmeli": "Salata, Yoğurt, Soda",
+      "corba2": "Süzme Mercimek Çorba",
+      "ana_yemek2": "Fırın Köfte",
+      "vegan2": "Harput Köfte",
+      "yardimci_yemek2": "Su Böreği, Gökkuşağı Pilavı",
+      "secmeli2": "Havuç Tarator, Kola, Meyve"
       }
   ]
 }
