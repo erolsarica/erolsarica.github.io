@@ -38,6 +38,19 @@
       "vegan2": "Buğdaylı Pazı",
       "yardimci_yemek2": "Pirinç Pilavı, Meyhane Pilavı",
       "secmeli2": "Salata, Meyve, Çilekli Kazandibi"
+      },
+    {
+      "tarih": "4 Aralık 2022",
+      "corba": "Köy Çorba",
+      "ana_yemek": "Patates Oturtma",
+      "vegan": "atates Yemeği",
+      "yardimci_yemek": "Zy.Yaprak Sarma, Peynirli Kalem Börek",
+      "secmeli": "Salata, Meyve, Şekerpare",
+      "corba2": "Soğan Çorbası",
+      "ana_yemek2": "Julyen Tavuk Sote",
+      "vegan2": "Karnabahar Graten",
+      "yardimci_yemek2": "Pirinç Pilavı, Soslu Spagetti",
+      "secmeli2": "Salata, Meyve, Komposto"
       }
   ]
 }
