@@ -43,7 +43,7 @@
       "tarih": "4 Aralık 2022",
       "corba": "Köy Çorba",
       "ana_yemek": "Patates Oturtma",
-      "vegan": "atates Yemeği",
+      "vegan": "Patates Yemeği",
       "yardimci_yemek": "Zy.Yaprak Sarma, Peynirli Kalem Börek",
       "secmeli": "Salata, Meyve, Şekerpare",
       "corba2": "Soğan Çorbası",
@@ -51,6 +51,19 @@
       "vegan2": "Karnabahar Graten",
       "yardimci_yemek2": "Pirinç Pilavı, Soslu Spagetti",
       "secmeli2": "Salata, Meyve, Komposto"
-      }
+      },
+    {
+      "tarih": "5 Aralık 2022",
+      "corba": "Mercimek Çorba",
+      "ana_yemek": "Bahçevan Kebabı",
+      "vegan": "Mantar Sote",
+      "yardimci_yemek": "Pirinç Pilavı, Soslu Makarna",
+      "secmeli": "Salata, Meyve, Ayran",
+      "corba2": "Alaca Çorba",
+      "ana_yemek2": "Etli Kuru Fasulye",
+      "vegan2": "Etsiz Kuru Fasulye",
+      "yardimci_yemek2": "Pirinç Pilavı, Sebzeli Bulgur Pilavı",
+      "secmeli2": "Turşu, Meyve, Kabak Tatlı"
+      } 
   ]
 }
