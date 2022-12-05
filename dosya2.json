@@ -64,6 +64,33 @@
       "vegan2": "Etsiz Kuru Fasulye",
       "yardimci_yemek2": "Pirinç Pilavı, Sebzeli Bulgur Pilavı",
       "secmeli2": "Turşu, Meyve, Kabak Tatlı"
+      },
+    {
+      "tarih": "6 ralık 2022",
+      "corba": "Mantar Çorba",
+      "ana_yemek": "Fırın Baget + Elma Dilim Patates",
+      "vegan": "Brüksel Lahana",
+      "yardimci_yemek": "Pirinç Pilavı, Firik Pilavı",
+      "secmeli": "Salata, Yoğurt, Kola",
+      "corba2": "Ezogelin Çorba",
+      "ana_yemek2": "Etli Taze Fasulye",
+      "vegan2": "Taze Fasulye",
+      "yardimci_yemek2": "Pirinç Pilavı, Patatesli Gül Böreği",
+      "secmeli2": "Salata, Soda, Hayrabolu Tatlı"
+      },
+    {
+      "tarih": "7 Aralık 2022",
+      "corba": "Sebze Çorba",
+      "ana_yemek": "Rosto Köfte",
+      "vegan": "Zy.Brokoli",
+      "yardimci_yemek": "Pirinç Pilavı, Fırın Makarna",
+      "secmeli": "Haydari, Kola, Bülbül Yuvası",
+      "corba2": "Çeşmi Nigar Çorba",
+      "ana_yemek2": "Piliç Emense",
+      "vegan2": "Harput Köfte",
+      "yardimci_yemek2": "Pirinç Pilavı, Zy.Barbunya",
+      "secmeli2": "Salata, Meyve, Komposto"
       } 
+    
   ]
 }
