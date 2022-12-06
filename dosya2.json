@@ -90,6 +90,19 @@
       "vegan2": "Harput Köfte",
       "yardimci_yemek2": "Pirinç Pilavı, Zy.Barbunya",
       "secmeli2": "Salata, Meyve, Komposto"
-      }     
+      },
+    {
+      "tarih": "8 Aralık 2022",
+      "corba": "Krutonlu Domates Çorba",
+      "ana_yemek": "Balık Pane",
+      "vegan": "Karnabahar Yemeği",
+      "yardimci_yemek": "Pirinç Pilavı, Soslu Makarna",
+      "secmeli": "Salata, Meyve, Tahin Helva",
+      "corba2": "Süleymaniye Çorba",
+      "ana_yemek2": "Karışık Musakka",
+      "vegan2": "Patlıcan Yemeği",
+      "yardimci_yemek2": "Pirinç Pilavı, Bulgur Pilavı",
+      "secmeli2": "Salata, Kola, Cacık"
+      } 
   ]
 }
