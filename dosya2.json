@@ -119,16 +119,16 @@
       },
         {
       "tarih": "10 Aralık 2022",
-      "corba": "Şafak Çorba",
-      "ana_yemek": "Etli Barbunya",
-      "vegan": "Etsiz Barbunya",
-      "yardimci_yemek": "Pirinç Pilavı, Bulgur Pilavı",
-      "secmeli": "Çiğ köfte, Kola, Meyve",
-      "corba2": "Süleymaniye Çorba",
-      "ana_yemek2": "Elbasan Tava",
-      "vegan2": "Zy.Bamya",
-      "yardimci_yemek2": "Mısırlı Pirinç Pilavı, Ispanaklı Gül Böreği",
-      "secmeli2": "Cacık, Meyve, Vişneli Kazandibi"
+      "corba": "Yayla Çorba",
+      "ana_yemek": "Ankara Tava",
+      "vegan": "Falafel",
+      "yardimci_yemek": "Karışık Kızartma, Zy.Kereviz",
+      "secmeli": "Salata, Soda, Komposto",
+      "corba2": "Şifa Çorba",
+      "ana_yemek2": "Püreli Davutpaşa Köfte",
+      "vegan2": "Kabak Kalye",
+      "yardimci_yemek2": "Sebzeli Bulgur Pilavı, Soslu Penne",
+      "secmeli2": "Salata, Kola, Meyve"
       }
   ]
 }
