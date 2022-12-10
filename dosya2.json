@@ -117,7 +117,7 @@
       "yardimci_yemek2": "Mısırlı Pirinç Pilavı, Ispanaklı Gül Böreği",
       "secmeli2": "Cacık, Meyve, Vişneli Kazandibi"
       },
-        {
+    {
       "tarih": "10 Aralık 2022",
       "corba": "Yayla Çorba",
       "ana_yemek": "Ankara Tava",
@@ -128,6 +128,45 @@
       "ana_yemek2": "Püreli Davutpaşa Köfte",
       "vegan2": "Kabak Kalye",
       "yardimci_yemek2": "Sebzeli Bulgur Pilavı, Soslu Penne",
+      "secmeli2": "Salata, Kola, Meyve"
+      },
+    {
+      "tarih": "11 Aralık 2022",
+      "corba": "Çeşmi Nigar Çorba",
+      "ana_yemek": "Etli Taze Fasulye",
+      "vegan": "Taze Fasulye",
+      "yardimci_yemek": "Pirinç Pilavı, Bulgur Pilavı",
+      "secmeli": "Salata, Meyve, Supangle",
+      "corba2": "Tavuk Suyu Çorba",
+      "ana_yemek2": "Etli Nohut",
+      "vegan2": "Etsiz Nohut",
+      "yardimci_yemek2": "Pirinç Pilavı, Bulgur Pilavı",
+      "secmeli2": "Salata, Soda, Meyve"
+      },
+    {
+      "tarih": "12 Aralık 2022",
+      "corba": "Mantar Çorba",
+      "ana_yemek": "Tavuk Döner",
+      "vegan": "Brüksel Lahana",
+      "yardimci_yemek": "Pirinç Pilavı, Sebzeli Makarna",
+      "secmeli": "Salata, Kola, Yoğurt",
+      "corba2": "Köy Çorba",
+      "ana_yemek2": "Beef Navarin",
+      "vegan2": "Zy.Pırasa",
+      "yardimci_yemek2": "Pirinç Pilavı, Bulgur Pilavı",
+      "secmeli2": "Salata, Ayran, Meyve"
+      },
+    {
+      "tarih": "13 Aralık 2022",
+      "corba": "Yeşil Mercimek Çorba",
+      "ana_yemek": "Sahan Köfte",
+      "vegan": "Bulgur Köfte",
+      "yardimci_yemek": "Pirinç Pilavı, Soslu Makarna",
+      "secmeli": "Pembe Sultan, Meyve, Kadayıflı Muhallebi",
+      "corba2": "Süzme Mercimek Çorba",
+      "ana_yemek2": "Piliç Cordon Bleu",
+      "vegan2": "Karnabahar Yemeği",
+      "yardimci_yemek2": "Pirinç Pilavı, Peynirli Makarna",
       "secmeli2": "Salata, Kola, Meyve"
       }
   ]
