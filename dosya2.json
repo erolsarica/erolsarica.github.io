@@ -171,16 +171,16 @@
       },
     {
       "tarih": "14 Aralık 2022",
-      "corba": "Yeşil Mercimek Çorba",
-      "ana_yemek": "Sahan Köfte",
-      "vegan": "Bulgur Köfte",
-      "yardimci_yemek": "Pirinç Pilavı, Soslu Makarna",
-      "secmeli": "Pembe Sultan, Meyve, Kadayıflı Muhallebi",
-      "corba2": "Süzme Mercimek Çorba",
-      "ana_yemek2": "Piliç Cordon Bleu",
-      "vegan2": "Karnabahar Yemeği",
-      "yardimci_yemek2": "Pirinç Pilavı, Peynirli Makarna",
-      "secmeli2": "Salata, Kola, Meyve"
+      "corba": "Antep Çorba",
+      "ana_yemek": "Orman Kebabı",
+      "vegan": "Tava Patlıcan Yemeği",
+      "yardimci_yemek": "Pirinç Pilavı, Kuskus",
+      "secmeli": "Salata, Ayran, Meyve",
+      "corba2": "Yeşil Orman Çorba",
+      "ana_yemek2": "Etli Kuru Fasulye",
+      "vegan2": "Etsiz Kuru Fasulye",
+      "yardimci_yemek2": "Pirinç Pilavı, Garnitürlü Bulgur Pilavı",
+      "secmeli2": "Salata, Yoğurt, Kazandibi"
       }
   ]
 }
