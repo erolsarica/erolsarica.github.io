@@ -184,16 +184,16 @@
       },
     {
       "tarih": "15 Aralık 2022",
-      "corba": "Antep Çorba",
-      "ana_yemek": "Orman Kebabı",
-      "vegan": "Tava Patlıcan Yemeği",
-      "yardimci_yemek": "Pirinç Pilavı, Kuskus",
-      "secmeli": "Salata, Ayran, Meyve",
-      "corba2": "Yeşil Orman Çorba",
-      "ana_yemek2": "Etli Kuru Fasulye",
-      "vegan2": "Etsiz Kuru Fasulye",
-      "yardimci_yemek2": "Pirinç Pilavı, Garnitürlü Bulgur Pilavı",
-      "secmeli2": "Salata, Yoğurt, Kazandibi"
+      "corba": "Köy Çorba",
+      "ana_yemek": "Dana Haşlama",
+      "vegan": "Kereviz Yemeği",
+      "yardimci_yemek": "Pirinç Pilavı, Pesto Soslu Makarna",
+      "secmeli": "Salata, Meyve, Revani",
+      "corba2": "Tarhana Çorba",
+      "ana_yemek2": "Kıymalı Kuru Patlıcan Dolma",
+      "vegan2": "Zy. Patlıcan Dolma",
+      "yardimci_yemek2": "Soslu Makarna, Ispanaklı Gül Böreği",
+      "secmeli2": "Havuç Tarator, Soda, Meyve"
       }
   ]
 }
