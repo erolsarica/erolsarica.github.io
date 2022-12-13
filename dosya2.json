@@ -181,6 +181,19 @@
       "vegan2": "Etsiz Kuru Fasulye",
       "yardimci_yemek2": "Pirinç Pilavı, Garnitürlü Bulgur Pilavı",
       "secmeli2": "Salata, Yoğurt, Kazandibi"
+      },
+    {
+      "tarih": "15 Aralık 2022",
+      "corba": "Antep Çorba",
+      "ana_yemek": "Orman Kebabı",
+      "vegan": "Tava Patlıcan Yemeği",
+      "yardimci_yemek": "Pirinç Pilavı, Kuskus",
+      "secmeli": "Salata, Ayran, Meyve",
+      "corba2": "Yeşil Orman Çorba",
+      "ana_yemek2": "Etli Kuru Fasulye",
+      "vegan2": "Etsiz Kuru Fasulye",
+      "yardimci_yemek2": "Pirinç Pilavı, Garnitürlü Bulgur Pilavı",
+      "secmeli2": "Salata, Yoğurt, Kazandibi"
       }
   ]
 }
