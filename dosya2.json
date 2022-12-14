@@ -194,6 +194,19 @@
       "vegan2": "Zy. Patlıcan Dolma",
       "yardimci_yemek2": "Soslu Makarna, Ispanaklı Gül Böreği",
       "secmeli2": "Havuç Tarator, Soda, Meyve"
+      },
+    {
+      "tarih": "16 Aralık 2022",
+      "corba": "Soğan Çorbası",
+      "ana_yemek": "Kıymalı Ispanak Yemeği",
+      "vegan": "Ispanak Yemeği",
+      "yardimci_yemek": "Nohutlu Bulgur Pilavı, Su Böreği",
+      "secmeli": "Mercimek Köfte, Meyve, Vişnovski",
+      "corba2": "Vitamin Çorba",
+      "ana_yemek2": "Kabak Beğendili Kebap",
+      "vegan2": "Kabak Yemeği",
+      "yardimci_yemek2": "Pirinç Pilavı, Meyhane Pilavı",
+      "secmeli2": "Havuç Tarator, Soda, Meyve"
       }
   ]
 }
