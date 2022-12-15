@@ -207,6 +207,19 @@
       "vegan2": "Kabak Yemeği",
       "yardimci_yemek2": "Pirinç Pilavı, Meyhane Pilavı",
       "secmeli2": "Havuç Tarator, Soda, Meyve"
+      },
+    {
+      "tarih": "17 Aralık 2022",
+      "corba": "Yayla Çorba",
+      "ana_yemek": "Etli Nohut",
+      "vegan": "Etsiz Nohut",
+      "yardimci_yemek": "Mısırlı Pirinç Pilavı, Meyhane Pilavı",
+      "secmeli": "Haydari, Turşu, Kola",
+      "corba2": "Cennet Çorba",
+      "ana_yemek2": "Meksika Soslu Köfte",
+      "vegan2": "Zy.Barbunya",
+      "yardimci_yemek2": "Gökkuşağı Pilavı, Soslu Spagetti",
+      "secmeli2": "Salata, Meyve, Mozaik Pasta"
       }
   ]
 }
