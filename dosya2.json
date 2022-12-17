@@ -236,16 +236,16 @@
       },
     {
       "tarih": "19 Aralık 2022",
-      "corba": "",
-      "ana_yemek": "",
-      "vegan": "",
-      "yardimci_yemek": "",
-      "secmeli": "",
-      "corba2": "",
-      "ana_yemek2": "",
-      "vegan2": "",
-      "yardimci_yemek2": "",
-      "secmeli2": ""
+      "corba": "Tutmaç Çorba",
+      "ana_yemek": "Etli Güveç",
+      "vegan": "Sebze Güveç",
+      "yardimci_yemek": "Pirinç Pilavı, Peynirli Makarna",
+      "secmeli": "Havuç Tarator, Soda, Puding",
+      "corba2": "Kabak Çorba",
+      "ana_yemek2": "Fırın Köfte",
+      "vegan2": "Falafel",
+      "yardimci_yemek2": "Melek Pilavı, Sebzeli Bulgur Pilavı",
+      "secmeli2": "Salata, Ayran, Meyve"
       },
     {
       "tarih": "20 Aralık 2022",
