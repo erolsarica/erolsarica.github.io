@@ -402,6 +402,32 @@
       "vegan2": "Brokoli Yemeği",
       "yardimci_yemek2": "Makarna, Karışık Kızartma",
       "secmeli2": "Salata, Ayran, Meyve"
+      },
+    {
+      "tarih": "1 Ocak 2023",
+      "corba": "Yayla Çorba",
+      "ana_yemek": "Patlıcan Musakka",
+      "vegan": "Patlıcan Yemeği",
+      "yardimci_yemek": "Soslu Makarna, Bulgur Pilavı",
+      "secmeli": "Patates Salata, Cacık, Meyve",
+      "corba2": "Mercimek Çorba",
+      "ana_yemek2": "Etli Nohut",
+      "vegan2": "Etsiz Nohut",
+      "yardimci_yemek2": "Pirinç Pilavı, Bulgur Pilavı",
+      "secmeli2": "Turşu, Soda, Prenses Tatlısı"
+      },
+    {
+      "tarih": "2 Ocak 2023",
+      "corba": "Mantar Çorba",
+      "ana_yemek": "İzmir Köfte",
+      "vegan": "Zy.Kereviz",
+      "yardimci_yemek": "Erişte, Melek Pilavı",
+      "secmeli": "Salata, Cevizli Kadayıf, Soda",
+      "corba2": "Ezogelin Çorba",
+      "ana_yemek2": "Orman Kebabı",
+      "vegan2": "Buğdaylı Pazı",
+      "yardimci_yemek2": "Havuçlu Pirinç Pilavı, Meyhane Pilavı",
+      "secmeli2": "Kırmızı Lahana Salata, Meyve, Soda"
       }
   ]
 }
