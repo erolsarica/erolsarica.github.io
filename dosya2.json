@@ -41,29 +41,29 @@
       },
     {
       "tarih": "4 Ocak 2023",
-      "corba": "",
-      "ana_yemek": "",
-      "vegan": "",
-      "yardimci_yemek": "",
-      "secmeli": "",
-      "corba2": "",
-      "ana_yemek2": "",
-      "vegan2": "",
-      "yardimci_yemek2": "",
-      "secmeli2": ""
+      "corba": "Köylü Çorba",
+      "ana_yemek": "Garnitürlü Hasanpaşa Köfte",
+      "vegan": "Mücver",
+      "yardimci_yemek": "Mısırlı Pirinç Pilavı, Spagetti",
+      "secmeli": "Kısır, Çikolata Soslu Muhallebi, Ayran",
+      "corba2": "Krutonlu Domates Çorba",
+      "ana_yemek2": "Kıymalı Ispanak",
+      "vegan2": "Ispanak Yemeği",
+      "yardimci_yemek2": "Gül Böreği, Napoliten Soslu Makarna",
+      "secmeli2": "Mevsim Salata, Hayrabolu Tatlısı, Meyve"
       },
     {
       "tarih": "5 Ocak 2023",
-      "corba": "",
-      "ana_yemek": "",
-      "vegan": "",
-      "yardimci_yemek": "",
-      "secmeli": "",
-      "corba2": "",
-      "ana_yemek2": "",
-      "vegan2": "",
-      "yardimci_yemek2": "",
-      "secmeli2": ""
+      "corba": "Şef'in Çorbası",
+      "ana_yemek": "Püreli Tas Kebabı",
+      "vegan": "Falafel",
+      "yardimci_yemek": "Nohutlu Pirinç Pilavı, Arpa Şehriye Pilavı",
+      "secmeli": "Havuç Tarator, Kola, Meyve",
+      "corba2": "Süzme Mercimek Çorba",
+      "ana_yemek2": "Etli Kuru Fasulye",
+      "vegan2": "Etsiz Kuru Fasulye",
+      "yardimci_yemek2": "Bulgur Pilavı, Melek Pilavı",
+      "secmeli2": "Turşu, Cacık, Meyve"
        }
   ]
 }
