@@ -64,6 +64,32 @@
       "vegan2": "Etsiz Kuru Fasulye",
       "yardimci_yemek2": "Bulgur Pilavı, Melek Pilavı",
       "secmeli2": "Turşu, Cacık, Meyve"
+       },
+    {
+      "tarih": "6 Ocak 2023",
+      "corba": "Tel Şehriye Çorba",
+      "ana_yemek": "Balık Pane",
+      "vegan": "Zy.Pırasa",
+      "yardimci_yemek": "Zy.Barbunya, Soslu Makarna",
+      "secmeli": "Salata, Tahin Helva, Soda",
+      "corba2": "Antep Çorba",
+      "ana_yemek2": "Etli Güveç",
+      "vegan2": "Sebze Güveç",
+      "yardimci_yemek2": "Zerdeçallı Pirinç Pilavı, Bulgur Pilavı",
+      "secmeli2": "Höşmerim, Salata, Meyve"
+      },
+    {
+      "tarih": "7 Ocak 2023",
+      "corba": "Domates Çorba",
+      "ana_yemek": "Macar Gulaş",
+      "vegan": "Zy. Brüksel Lahana",
+      "yardimci_yemek": "Makarna, Sebzeli Pirinç Pilavı",
+      "secmeli": "Karışık Salata, Ayran, Meyve",
+      "corba2": "Yayla Çorba",
+      "ana_yemek2": "Kıymalı Karnabahar",
+      "vegan2": "Karnabahar Graten",
+      "yardimci_yemek2": "Mısırlı Pirinç Pilavı, Su Böreği",
+      "secmeli2": "Humus, Kemalpaşa, Kola"
        }
   ]
 }
