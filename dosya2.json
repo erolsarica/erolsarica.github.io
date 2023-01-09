@@ -129,6 +129,32 @@
       "vegan2": "Kereviz Yemeği",
       "yardimci_yemek2": "Pirinç Pilavı, Bulgur Pilavı",
       "secmeli2": "Salata, Soda, Meyve"
+       },
+    {
+      "tarih": "11 Ocak 2023",
+      "corba": "Süzme Mercimek Çorba",
+      "ana_yemek": "Etli Nohut",
+      "vegan": "Etsiz Nohut",
+      "yardimci_yemek": "Meyhane Pilavı, Pirinç Pilavı",
+      "secmeli": "Karışık Turşu, Hayrabolu Tatlısı, Meyve",
+      "corba2": "Sebze Çorba",
+      "ana_yemek2": "Rosto Köfte",
+      "vegan2": "Patlıcan Yemeği",
+      "yardimci_yemek2": "Mercimekli Bulgur Pilavı, Zerdeçallı Pirinç Pilavı",
+      "secmeli2": "Cacık, Meyve, Kola"
+      },
+    {
+      "tarih": "12 Ocak 2023",
+      "corba": "Mahluta Çorba",
+      "ana_yemek": "Ispanaklı Tavuk Sarma",
+      "vegan": "Zy.Mantar",
+      "yardimci_yemek": "Sebzeli Makarna, Bulgur Pilavı",
+      "secmeli": "Kırmızı Pancar Salata, Meyve, Şekerpare",
+      "corba2": "Yayla Çorba",
+      "ana_yemek2": "Fırın Köfte",
+      "vegan2": "Mücver",
+      "yardimci_yemek2": "Pirinç Pilavı, Erişte",
+      "secmeli2": "Ayran, Roka Salatası, Meyve"
        }
     
   ]
