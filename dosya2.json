@@ -155,7 +155,34 @@
       "vegan2": "Mücver",
       "yardimci_yemek2": "Pirinç Pilavı, Erişte",
       "secmeli2": "Ayran, Roka Salatası, Meyve"
+       },
+    {
+      "tarih": "13 Ocak 2023",
+      "corba": "",
+      "ana_yemek": "",
+      "vegan": "",
+      "yardimci_yemek": "",
+      "secmeli": "",
+      "corba2": "",
+      "ana_yemek2": "",
+      "vegan2": "",
+      "yardimci_yemek2": "",
+      "secmeli2": ""
+      },
+    {
+      "tarih": "14 Ocak 2023",
+      "corba": "",
+      "ana_yemek": "",
+      "vegan": "",
+      "yardimci_yemek": "",
+      "secmeli": "",
+      "corba2": "",
+      "ana_yemek2": "",
+      "vegan2": "",
+      "yardimci_yemek2": "",
+      "secmeli2": ""
        }
+  ]
     
   ]
 }
